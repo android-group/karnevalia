@@ -1,6 +1,8 @@
-Karnevalia - this is UI automation framework combine features from Spoon, UiAutomator, Espresso, Localization parameterization testing support.
+Karnevalia
 =====
 
+UI automation framework combine features from Spoon, UiAutomator, Espresso, Localization parameterization testing support.
+------------
 
 Spoon
 =====
