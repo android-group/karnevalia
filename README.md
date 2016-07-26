@@ -4,6 +4,13 @@ Karnevalia
 UI automation framework combine features from Spoon, UiAutomator, Espresso, Localization parameterization testing support.
 ------------
 
+The Best features
+------------
+1) Localization testing
+2) Screenshot modal dialog
+3) Best and easy click and scrilling
+4) Automation login in facebook if needed
+
 [![Karnevalia](http://www.picgifs.com/clip-art/entertainment/jesters/clip-art-jesters-132457.jpg)](https://github.com/android-group/karnevalia/)
 
 Spoon
