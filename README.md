@@ -4,6 +4,8 @@ Karnevalia
 UI automation framework combine features from Spoon, UiAutomator, Espresso, Localization parameterization testing support.
 ------------
 
+[![Karnevalia](http://www.picgifs.com/clip-art/entertainment/jesters/clip-art-jesters-132457.jpg)](https://github.com/android-group/karnevalia/)
+
 Spoon
 =====
 
