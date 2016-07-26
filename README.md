@@ -6,6 +6,8 @@ UI automation framework combine features from Spoon, UiAutomator, Espresso, Loca
 
 The Best features
 ------------
+!) Easy to learn, fast to use
+
 1) Localization testing
 
 2) Screenshot modal dialog
@@ -13,6 +15,8 @@ The Best features
 3) Best and easy click and scrilling
 
 4) Automation login in facebook if needed
+
+5) Powerful test report with filter and informative log
 
 [![Karnevalia](http://www.picgifs.com/clip-art/entertainment/jesters/clip-art-jesters-132457.jpg)](https://github.com/android-group/karnevalia/)
 
